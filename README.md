@@ -1,7 +1,7 @@
 # Workshop
 Файлы к воркшопу **Запуск обученной модели ONNX в реальном железе на примере обратного маятника**
 
-Ссылка на [презентацию](https://docs.google.com/presentation/d/1N_wU1ZxaOHyyRAGI6gr8mMF4w-S4YiwxAZw6XnmFZhs/edit#slide=id.gcc9050bdf8_0_273)
+Ссылка на [презентацию](https://docs.google.com/presentation/d/1N_wU1ZxaOHyyRAGI6gr8mMF4w-S4YiwxAZw6XnmFZhs)
 
 # Установка
 Скачайте Python.zip и .zip файл для вашей операционной системы. Например, на MacOSX скачайте Mac.zip и так далее.
